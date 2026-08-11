@@ -2,11 +2,9 @@
 
 **Native C++ • DICOM • MPR • 3D Volume Rendering • ONNX Runtime • MONAI**
 
-**DICOM → Medical Visualization → GPU Volume Rendering → Image Processing → AI Integration → MPR/3D AI Results**
+**DICOM → Medical Visualization → GPU Volume Rendering → Image Processing → AI Inference → MPR/3D AI Results**
 
 ![AI Medical Imaging Workstation](screenshots/03_AI_Completed.PNG)
-
-## Overview
 
 ## Overview
 
