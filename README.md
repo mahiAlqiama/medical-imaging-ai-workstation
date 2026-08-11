@@ -1,8 +1,12 @@
 # AI Medical Imaging Workstation
 
-Native C++ • Qt 6 • VTK • DICOM • ONNX Runtime • MONAI
+**Native C++ • DICOM • MPR • 3D Volume Rendering • ONNX Runtime • MONAI**
 
-![AI Completed](screenshots/03_AI_Completed.PNG)
+**DICOM → Medical Visualization → GPU Volume Rendering → Image Processing → AI Integration → MPR/3D AI Results**
+
+![AI Medical Imaging Workstation](screenshots/03_AI_Completed.PNG)
+
+## Overview
 
 ## Overview
 
@@ -32,6 +36,7 @@ DICOM CT → MONAI-compatible preprocessing → 96³ sliding-window inference
 ## Engineering Highlights
 
 - Native **C++17** implementation with Qt 6 and VTK
+- GPU-accelerated **3D CT volume rendering** using VTK / OpenGL
 - MONAI-compatible preprocessing reproduced in C++
 - **96³ sliding-window inference** with Gaussian blending
 - **105-class** segmentation through ONNX Runtime
