@@ -91,5 +91,19 @@ Background Processing	QThread
 ## Project Scope
 Public engineering and portfolio showcase. Full proprietary application source is not included.
 
+## Data Attribution
+
+The CT/DICOM data used in this demonstration is the HEART_CT
+sample dataset distributed with the Fovia F.A.S.T. Web/Cloud SDK
+demo cases.
+
+The dataset is used only for software engineering and visualization
+demonstration purposes.
+
+Alqiama Technologies does not claim ownership of the imaging data.
+Original DICOM files are not included or redistributed in this repository.
+
+Source: Fovia F.A.S.T. Web/Cloud SDK demo cases — HEART_CT]
+
 ## Disclaimer
 Research / engineering visualization demo. Not intended for clinical diagnosis or patient care.
