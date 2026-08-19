@@ -1,3 +1,48 @@
+## Apple Vision Pro Medical XR
+
+Immersive CT visualization prototype for Apple Vision Pro using
+Metal, Swift, SwiftUI, visionOS, CompositorServices and ARKit.
+
+### Highlights
+
+- Custom Metal GPU CT volume ray marching
+- Real 512 × 512 × 107 CT volume
+- Bone, CTA, Soft Tissue and Lung presets
+- Axial / Coronal / Sagittal orthogonal CT views
+- Window / Level controls
+- Rotate / Pan / Zoom interaction
+- Spatial medical visualization workspace
+- Developed on macOS with Xcode
+- Validated in Apple Vision Pro visionOS 26 Simulator
+
+### Technologies
+
+Swift · SwiftUI · Metal · visionOS · CompositorServices · ARKit · MTLTexture3D
+
+### Live Case Study
+
+https://www.alqiamalabs.com/apple-vision-pro-medical-xr/
+
+![Apple Vision Pro Medical XR](screenshots/08_VisionPro_MedicalXR_Workspace.png)
+
+## Apple Vision Pro · Spatial Computing · Medical Visualization
+
+**Apple Vision Pro** · **visionOS** · **Metal** · **Swift** · **SwiftUI** ·
+**CompositorServices** · **ARKit** · **Spatial Computing** ·
+**Medical Imaging** · **CT Volume Rendering** · **GPU Ray Marching** ·
+**MTLTexture3D**
+
+### Technology Stack
+
+| Apple / XR | GPU Rendering | Medical Imaging |
+|---|---|---|
+| **Apple Vision Pro** | **Metal** | **Medical Imaging** |
+| **visionOS** | **GPU Ray Marching** | **CT Volume Rendering** |
+| **Swift** | **MTLTexture3D** | **HU Transfer Functions** |
+| **SwiftUI** | **3D Texture Sampling** | **Orthogonal CT Views** |
+| **CompositorServices** | **Gradient Lighting** | **Window / Level** |
+| **ARKit** | **Volume Rendering** | **CT Visualization** |
+
 # AI Medical Imaging Workstation
 
 **Native C++ • DICOM • MPR • 3D Volume Rendering • ONNX Runtime • MONAI**
